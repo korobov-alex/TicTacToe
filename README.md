@@ -1,5 +1,5 @@
 # TicTacToe
-```markdown
+
 # Tic-Tac-Toe Java Game
 
 This is a simple console-based implementation of the classic Tic-Tac-Toe game in Java. The game allows two players to take turns and compete against each other to achieve a winning condition by forming a line of their respective symbols (X or O) in a row, column, or diagonal on the game board.
