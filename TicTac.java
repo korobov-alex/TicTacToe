@@ -1,5 +1,5 @@
 /*
- * Comments for TicTac.java
+ * Comments for TicTac.java.
  */
 
 import java.util.Scanner;
